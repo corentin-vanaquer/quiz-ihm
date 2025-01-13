@@ -1,0 +1,13 @@
+{
+  "common.title-header": "Angular Quizz",
+  "common.home-page-title": "Testez vos connaissances sur Angular :",
+  "common.home-page-first-li": "Recevez un feedback personnalisé pour chaque réponse.",
+  "common.home-page-second-li": "Plus vous détaillez votre réponse, meilleur sera le feedback.",
+  "common.cycle-de-vie-cta": "Cycle de vie",
+  "common.rxjs-cta": "RxJS",
+  "common.envoyer-cta": "Envoyer",
+  "common.retour-cta": "Retour",
+  "common.question-list-text": "Question 1 sur 5",
+  "common.question-debutant-title": "Dans Angular, comment fonctionne le cycle de vie d'un composant ? Nomme les principaux hooks disponibles, leur ordre d'exécution, et donne un exemple pratique d'utilisation d'au moins deux d'entre eux."
+
+}
