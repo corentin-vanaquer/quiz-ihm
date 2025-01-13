@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-custom {
+  @apply border-2 p-5 rounded-xl hover:border-indigo-600 text-indigo-700 shadow-lg;
+}
